@@ -1,5 +1,8 @@
 #jQeury fitVideo plugin
 
+##Demo
+
+
 ##使用教程
 引入fitvideo.js后，在你的jQuery中使用
 
