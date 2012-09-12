@@ -1,6 +1,6 @@
 #jQeury fitVideo plugin
 
-###[Demo] (http://ongakuer.github.com/fitvideo/)
+###[Demo] (http://gitbhub.relex.me/fitvideo/)
 
 
 ##使用教程
